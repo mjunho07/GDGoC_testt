@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Inter, Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  background-image: radial-gradient(
+      circle at 20% 10%,
+      rgba(99, 102, 241, 0.2),
+      transparent 35%
+    ),
+    radial-gradient(
+      circle at 90% 90%,
+      rgba(16, 185, 129, 0.14),
+      transparent 32%
+    );
+}
