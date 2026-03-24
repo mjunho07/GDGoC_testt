@@ -22,7 +22,7 @@ export const portfolioData: PortfolioData = {
   name: "명준호",
   tagline:
     "안녕하세요! 사용자 경험을 설계하는 프론트엔드 개발자 명준호입니다.",
-  role: "컴퓨터공학과 학생 / 주니어 개발자",
+  role: "전기전자공학과 학생 / 주니어 개발자",
   coreTechStack: ["TypeScript", "React", "Next.js", "Firebase"],
   projects: [
     {
